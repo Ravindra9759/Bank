@@ -35,7 +35,7 @@ Database: SQLite / MySQL
 
 ## 🔧 Installation & Setup
 ### 1. Clone the repository:
-    git clone https://github.com/your-username/Bank-Management-System.git
+    git clone https://github.com/Ravindra9759/Bank.git
     cd Bank-Management-System
 ### 2. Install dependencies:
     pip install -r requirements.txt
