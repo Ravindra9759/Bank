@@ -39,7 +39,5 @@ Database: SQLite / MySQL
     cd Bank-Management-System
 ### 2. Install dependencies:
     pip install -r requirements.txt
-### 3. Default Admin Login (for testing):
-   Username: admin
-   Password: admin123
+
 
